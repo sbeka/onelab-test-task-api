@@ -1,6 +1,11 @@
 {
   "db": {
+    "host": "176.53.162.11",
+    "port": 27017,
+    "database": "onelab",
+    "user": "onelab",
+    "password": "bekzhan2019",
     "name": "db",
-    "connector": "memory"
+    "connector": "mongodb"
   }
 }
